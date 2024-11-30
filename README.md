@@ -1,8 +1,5 @@
 # iCalc
 
-<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
-  <source src="/Docs/Screenshots/demo-recording.mov" type="video/mp4" />
-  <img src="/Docs/Screenshots/screenshot.png" />
-</video>
+<video src="https://github.com/akoskovacs/iCalc/raw/refs/heads/main/Docs/Screenshots/demo-recording.mov" width="300" />
 
 Simple calculator in Swift for iOS. Not all features supported, bugs here and there, but the code is pretty simple.
